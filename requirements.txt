@@ -1,13 +1,15 @@
-gym==0.25.2
+setuptools<=60
+wheel==0.37.1
+pip==23.3.1
+gym==0.21.0
 gym-super-mario-bros==7.3.0
 nes-py==8.2.1
-<<<<<<< HEAD
 numpy==1.26.4
-stable_baselines3
-torch==2.5.1+cu121
-torchvision==0.20.1+cu121
-torchaudio==2.5.1+cu121
+stable_baselines3==1.6.0
 opencv-python
-=======
-numpy==1.26.4
->>>>>>> fc1977caa8e806b9df138705ff1e5f46f20c7d4a
+shimmy>=2.0
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
+tensorboard==2.12.3
