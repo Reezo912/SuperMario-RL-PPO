@@ -4,3 +4,6 @@ __pycache__
 /train
 /logs
 /videos
+Deprecated.py
+Not_working.ipynb
+/models/checkpoints
