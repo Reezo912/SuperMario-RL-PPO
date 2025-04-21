@@ -48,7 +48,7 @@ class MarioRewardWrapper(gym.Wrapper):
 # 1. Clase Rewards Wrapper
 # -----------------------------------------------------------------------------
 
-    def __init__(self, env, factor, goal_bonus=100, death_penalty=-50, max_steps=20_000):
+    def __init__(self, env, factor=0.03, goal_bonus=100, death_penalty=-50, max_steps=20_000):
         super().__init__(TimeLimit(env, max_episode_steps=max_steps)) # llamo a constructor de la clase padre e introduzco el limite de pasos
         self.factor = factor
         self.goal_bonus = goal_bonus
