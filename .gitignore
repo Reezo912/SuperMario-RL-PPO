@@ -3,7 +3,7 @@ __pycache__
 .learn
 /train
 /logs
-/videos
+
 Deprecated.py
 Not_working.ipynb
 /models/checkpoints
