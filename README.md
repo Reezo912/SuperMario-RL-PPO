@@ -3,7 +3,7 @@
 Este proyecto entrena un agente de IA a traves de RL (Reinforcement Learning) para jugar al nivel 1-1 de *Super Mario Bros* usando el algoritmo de **Proximal Policy Optimization (PPO)**.
 
 He utilizado las siguientes librerias:
-  - Gym
+  - gym
   - gym_super_mario_bros
   - nes_py
   - stable_baselines3
