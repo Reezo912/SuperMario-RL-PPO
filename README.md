@@ -31,7 +31,7 @@ Gracias a este preprocesamiento, el tamaño de los datos a procesar se reduce co
 
 Este wrapper proporciona recompensas continuas al moverse hacia la derecha dando un mayor feedback a nuestro agente. Además aplico un reward de 100 puntos por alcanzar la meta.
 La penalizacion es un -50 por morir.
-Utilizo un max_steps que por defecto es de 20.000 y no debería entrar en acción. He observado que el agente se queda atascado en varios puntos, esto acabaría la simulación de manera temprana.
+Utilizo un max_steps que por defecto es de 20.000 y no debería entrar en acción, no obstante, he observado que el agente se queda atascado en varios puntos, esto acabaría la simulación de manera temprana cambiando el valor a unos 1000 timesteps en caso de ser necesario.
 
 La recompensa intrínseca esta delimitada de -15, 15 y solo incluye una penalización de -15 por morir y un bonus por moverse hacia la derecha.
 
