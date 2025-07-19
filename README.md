@@ -1,5 +1,11 @@
 # 🕹️ Super Mario Bros AI con PPO (Proximal Policy Optimization)
 
+
+## 🎮 Super Mario RL Demo
+
+![No reward shape](videos/demo_no_reward.gif)
+![reward shape](videos/Reward_shape.gif)
+
 Este proyecto entrena un agente de IA a traves de RL (Reinforcement Learning) para jugar al nivel 1-1 de *Super Mario Bros* usando el algoritmo de **Proximal Policy Optimization (PPO)**.
 
 He utilizado las siguientes librerias:
