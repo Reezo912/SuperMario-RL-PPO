@@ -3,11 +3,9 @@
 
 ## 🎮 Super Mario RL Demo
 
-<p align="left">
-  <b>Sin shaping</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Con shaping</b><br>
-  <img src="videos/demo_no_reward.gif" width="200" style="display:inline;">
-  <img src="videos/demo_reward.gif" width="200" style="display:inline;">
-</p>
+| 🟥 Sin shaping | 🟩 Con shaping |
+|---------------|----------------|
+| <img src="videos/demo_no_reward.gif" width="300"/> | <img src="videos/demo_reward.gif" width="300"/> |
 
 Este proyecto entrena un agente de IA a traves de RL (Reinforcement Learning) para jugar al nivel 1-1 de *Super Mario Bros* usando el algoritmo de **Proximal Policy Optimization (PPO)**.
 
