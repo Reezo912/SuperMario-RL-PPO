@@ -9,7 +9,7 @@
     <figcaption><b>Sin shaping</b></figcaption>
   </figure>
   <figure style="display:inline-block;">
-    <img src="videos/Reward_shape.gif" width="200">
+    <img src="videos/demo_reward.gif" width="200">
     <figcaption><b>Con shaping</b></figcaption>
   </figure>
 </p>
