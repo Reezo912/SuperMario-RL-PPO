@@ -3,7 +3,7 @@
 
 ## 🎮 Super Mario RL Demo
 
-| 🟥 Sin shaping | 🟩 Con shaping |
+| 🟥 Sin Reward shaping | 🟩 Con Reward shaping |
 |---------------|----------------|
 | <img src="videos/demo_no_reward.gif" width="300"/> | <img src="videos/demo_reward.gif" width="300"/> |
 
