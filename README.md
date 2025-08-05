@@ -45,8 +45,8 @@ He utilizado las siguientes librerías:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/SuperMarioIA.git
-   cd SuperMarioIA
+   git clone https://github.com/Reezo912/SuperMario-RL-PPO
+   cd SuperMario-RL-PPO
    ```
 
 2. **Crear entorno virtual (recomendado):**
