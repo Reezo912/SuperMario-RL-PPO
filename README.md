@@ -5,7 +5,6 @@
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-1.6.0-green.svg)](https://stable-baselines3.readthedocs.io/)
 [![Gym](https://img.shields.io/badge/Gym-0.21.0-orange.svg)](https://gym.openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
 
 ## 📋 Tabla de Contenidos
 
